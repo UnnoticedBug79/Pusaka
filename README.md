@@ -2,6 +2,12 @@
 
 A modern NFT marketplace dedicated to preserving and promoting traditional Indonesian crafts through blockchain technology. Built on the Internet Computer Protocol (ICP) for fast, sustainable transactions.
 
+-Hackathon 14-
+M Raffi Firdaus
+Hari Hardiyan
+M Akbar
+
+
 ## 🎨 About Pusaka
 
 Pusaka is a specialized NFT marketplace that empowers Indonesian artisans to showcase and sell their traditional crafts as digital collectibles. Our platform focuses on:
